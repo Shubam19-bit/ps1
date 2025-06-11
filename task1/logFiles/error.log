@@ -1,0 +1,9 @@
+2025-06-11 18:28:55,845 | ERROR | Score column 'Record_Score' not found in C:\office\belden\supplier360\Scoring\accuracy scoring\rpt_supplier_evaluation_order_confirmation_emea.csv
+2025-06-11 18:28:55,847 | ERROR | Score column 'Record_Score' not found in C:\office\belden\supplier360\Scoring\accuracy scoring\rpt_supplier_evaluation_otd_emea.csv
+2025-06-11 18:28:55,848 | ERROR | Score column 'Record_Score' not found in C:\office\belden\supplier360\Scoring\accuracy scoring\rpt_supplier_evaluation_po_receipt_invoice_emea.csv
+2025-06-11 18:28:55,849 | ERROR | Score column 'Record_Score' not found in C:\office\belden\supplier360\Scoring\accuracy scoring\rpt_supplier_evaluation_turn_emea.csv
+2025-06-11 18:28:55,849 | ERROR | Score column 'Record_Score' not found in C:\office\belden\supplier360\Scoring\accuracy scoring\rpt_supplier_leadtime.csv
+2025-06-11 18:28:55,850 | ERROR | Score column 'Record_Score' not found in C:\office\belden\supplier360\Scoring\accuracy scoring\rpt_supplier_otd.csv
+2025-06-11 18:28:55,851 | ERROR | Score column 'Record_Score' not found in C:\office\belden\supplier360\Scoring\accuracy scoring\rpt_supplier_otd_history.csv
+2025-06-11 18:28:55,852 | ERROR | Score column 'Record_Score' not found in C:\office\belden\supplier360\Scoring\accuracy scoring\rpt_supplier_scorecard.csv
+2025-06-11 18:28:55,852 | ERROR | Score column 'Record_Score' not found in C:\office\belden\supplier360\Scoring\accuracy scoring\rpt_vendor_evaluation.csv

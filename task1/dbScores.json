@@ -1,0 +1,98 @@
+{
+    "analysis": {
+        "Scores": {
+            "accuracy scoring": 88.55658943141707,
+            "completeness": 88.99145652211286,
+            "data formating": 91.99877864044632,
+            "data quality": 86.72861751558662,
+            "uniqueness scoring": 99.76046341463415
+        },
+        "Summary": {
+            "Table Count": 41
+        }
+    },
+    "archive": {
+        "Scores": {
+            "accuracy scoring": 85.08952625193749,
+            "completeness": 82.91575476342291,
+            "data formating": 96.06132235374683,
+            "data quality": 81.64614302942874,
+            "uniqueness scoring": 99.9921212121212
+        },
+        "Summary": {
+            "Table Count": 33
+        }
+    },
+    "deskpro": {
+        "Scores": {
+            "accuracy scoring": 93.2510104480148,
+            "completeness": 93.80763679161106,
+            "data formating": 92.2543531792456,
+            "data quality": 93.69104137318776,
+            "uniqueness scoring": 100.0
+        },
+        "Summary": {
+            "Table Count": 13
+        }
+    },
+    "duns": {
+        "Scores": {
+            "accuracy scoring": 81.733771166769,
+            "completeness": 89.50391644908616,
+            "data formating": 97.81774361408826,
+            "data quality": 88.78524147284638,
+            "uniqueness scoring": 100.0
+        },
+        "Summary": {
+            "Table Count": 5
+        }
+    },
+    "fuzzy": {
+        "Scores": {
+            "accuracy scoring": 83.76333016807445,
+            "completeness": 89.3995949074074,
+            "data formating": 88.8873713092463,
+            "data quality": 73.00302428756959,
+            "uniqueness scoring": 100.0
+        },
+        "Summary": {
+            "Table Count": 9
+        }
+    },
+    "prospect": {
+        "Scores": {
+            "accuracy scoring": 74.38151383536466,
+            "completeness": 91.75359890109891,
+            "data formating": 40.0,
+            "data quality": 91.3909426049951,
+            "uniqueness scoring": 100.0
+        },
+        "Summary": {
+            "Table Count": 5
+        }
+    },
+    "public": {
+        "Scores": {
+            "accuracy scoring": 86.81348257135552,
+            "completeness": 90.03983572402039,
+            "data formating": 84.66513467945569,
+            "data quality": 88.99046177598542,
+            "uniqueness scoring": 99.30203703703704
+        },
+        "Summary": {
+            "Table Count": 27
+        }
+    },
+    "supplier360": {
+        "Scores": {
+            "accuracy scoring": 93.1126013015421,
+            "completeness": 92.53034803472949,
+            "data formating": 99.23131522547916,
+            "data quality": 89.36454382611277,
+            "uniqueness scoring": 87.12881818181819
+        },
+        "Summary": {
+            "Table Count": 21
+        }
+    }
+}
